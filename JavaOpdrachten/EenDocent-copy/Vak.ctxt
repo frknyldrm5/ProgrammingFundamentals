@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vak
+comment1.params=omschrijving\ aantalUren
+comment1.target=Vak(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getOmschrijving()
+comment3.params=omschrijving
+comment3.target=void\ setOmschrijving(java.lang.String)
+comment4.params=
+comment4.target=int\ getAantalUren()
+comment5.params=aantalUren
+comment5.target=void\ setAantalUren(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

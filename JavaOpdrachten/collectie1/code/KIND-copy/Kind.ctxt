@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kind
+comment1.params=
+comment1.target=Kind()
+comment2.params=kindNaam\ kindLeeftijd
+comment2.target=Kind(java.lang.String,\ int)
+comment3.params=nieuweNaam
+comment3.target=void\ setNaam(java.lang.String)
+comment4.params=nieuweLeeftijd
+comment4.target=void\ set(int)
+comment5.params=
+comment5.target=java.lang.String\ getNaam()
+comment6.params=
+comment6.target=int\ getLeeftijd()
+comment7.params=
+comment7.target=boolean\ isBaby()
+comment8.params=
+comment8.target=void\ drukAf()
+numComments=9

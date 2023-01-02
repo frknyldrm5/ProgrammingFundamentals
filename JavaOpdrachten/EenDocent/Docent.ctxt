@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Docent
+comment1.params=diploma\ naam
+comment1.target=Docent(java.lang.String,\ java.lang.String)
+comment2.params=diploma
+comment2.target=void\ setDiploma(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDiploma()
+comment4.params=naam
+comment4.target=void\ setNaam(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNaam()
+comment6.params=vak
+comment6.target=void\ aadVak(Vak)
+comment7.params=vak
+comment7.target=void\ removeVak(Vak)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

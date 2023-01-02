@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bediende
+comment1.params=naam\ salaris
+comment1.target=Bediende(java.lang.String,\ int)
+comment2.params=afdeling
+comment2.target=void\ setAfdeling(Afdeling)
+comment3.params=bedrag
+comment3.target=java.lang.String\ verhoogSalaris(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

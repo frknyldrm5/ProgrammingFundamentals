@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WhileOefeningen
+comment1.params=
+comment1.target=WhileOefeningen()
+comment2.params=
+comment2.target=void\ halveKerstboom()
+comment3.params=maxStars
+comment3.target=void\ halveKerstboom(int)
+comment4.params=
+comment4.target=void\ getallen3tot100()
+comment5.params=
+comment5.target=void\ getallen200tot101()
+comment6.params=getal
+comment6.target=boolean\ isPriemgetal(int)
+comment7.params=
+comment7.target=void\ priemgetallen3tot100()
+comment8.params=
+comment8.target=void\ priemgetallen200tot101()
+numComments=9

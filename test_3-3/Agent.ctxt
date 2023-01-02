@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=number\ name
+comment1.target=Agent(int,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=number
+comment4.target=void\ setNumber(int)
+comment5.params=
+comment5.target=int\ getNumber()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
